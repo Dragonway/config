@@ -1,4 +1,4 @@
-<keymap version="1" name="Default for XWin copy" parent="Default for XWin">
+<keymap version="1" name="Dragonway" parent="Default for XWin">
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="alt b" />
   </action>
