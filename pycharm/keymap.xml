@@ -3,7 +3,7 @@
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="alt b" />
   </action>
   <action id="CheckinProject" />
-  <action id="Compare.LastVersion">
+  <action id="Compare.SameVersion">
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="alt d" />
   </action>
   <action id="FindNext">
