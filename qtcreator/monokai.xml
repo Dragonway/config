@@ -16,19 +16,21 @@
   <style name="Occurrences.Rename" foreground="#000000" background="#ff6464"/>
   <style name="Number" foreground="#ae81ff"/>
   <style name="String" foreground="#e6db74"/>
-  <style name="Type" foreground="#b8efe6"/>
+  <style name="Type" foreground="#66d9ef"/>
   <style name="Local" foreground="#42cf89"/>
-  <style name="Global" foreground="#ce5c00"/>
-  <style name="Field" foreground="#66d9ef"/>
+  <style name="Global"/>
+  <style name="Field" foreground="#42cf89"/>
   <style name="Static" foreground="#66d9ef"/>
   <style name="VirtualMethod" foreground="#87d5be"/>
-  <style name="Function" foreground="#66d9ef"/>
-  <style name="Keyword" foreground="#f92672"/>
-  <style name="PrimitiveType" foreground="#b7eee5" italic="true"/>
-  <style name="Operator" foreground="#e6e5e2"/>
-  <style name="Preprocessor" foreground="#a6e22e"/>
-  <style name="Label" foreground="#800000"/>
-  <style name="Comment" foreground="#808080"/>
+  <style name="Function" foreground="#a6e22e"/>
+  <style name="Keyword" foreground="#f92672" italic="true"/>
+  <style name="PrimitiveType" foreground="#66d9ef" italic="true"/>
+  <style name="Operator" foreground="#ffffff"/>
+  <style name="Overloaded Operator" foreground="#ffffff"/>
+  <style name="Punctuation" foreground="#ffffff"/>
+  <style name="Preprocessor" foreground="#a6e22e" italic="true"/>
+  <style name="Label" foreground="#a9b7c6"/>
+  <style name="Comment" foreground="#75715e"/>
   <style name="Doxygen.Comment" foreground="#808080" italic="true"/>
   <style name="Doxygen.Tag" foreground="#808080" bold="true" italic="true"/>
   <style name="VisualWhitespace" foreground="#3e3d32"/>
@@ -59,6 +61,7 @@
   <style name="WarningContext" underlineColor="#ffbe00" underlineStyle="DotLine"/>
   <style name="Error" underlineColor="#ff0000" underlineStyle="SingleUnderline"/>
   <style name="ErrorContext" underlineColor="#ff0000" underlineStyle="DotLine"/>
-  <style name="Declaration" foreground="#000000" background="#ffffff" bold="true"/>
-  <style name="OutputArgument" foreground="#000000" background="#ffffff" italic="true"/>
+  <style name="Declaration" foreground="#a6e22e"/>
+  <style name="FunctionDefinition" foreground="#a6e22e"/>
+  <style name="OutputArgument" italic="true"/>
 </style-scheme>
